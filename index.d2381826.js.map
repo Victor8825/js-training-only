@@ -1,0 +1,1 @@
+{"mappings":"AAAA,IAAMA,aAAe,SAAAC,G,OAAQA,EAAKC,KAAK,SAAAC,G,OAAQA,EAAM,MAEnDC,QAAQC,IAAIL,aAAa,CAAC,EAAG,EAAG,EAAG","sources":["src/index.js"],"sourcesContent":["const openOrSenior = data => data.map( elem => elem +1 );\n\n  console.log(openOrSenior([1, 2, 3, 5]));"],"names":["openOrSenior","data","map","elem","console","log"],"version":3,"file":"index.d2381826.js.map"}
